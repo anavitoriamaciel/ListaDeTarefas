@@ -15,3 +15,16 @@ Este repositório contém um simples Gerenciador de Tarefas desenvolvido em Java
 # Clone esse repositório:
 $ git clone https://github.com/anavitoriamaciel/ListaDeTarefas.git
 ```
+##  Sobre mim
+"Vamos nos conectar no LinkedIn! 🚀 Descubra mais sobre minha jornada profissional e explore oportunidades de colaboração em projetos inovadores. 🌟"
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anavitoriamaciel/"><img src="https://github.com/user-attachments/assets/fad2d485-c100-4ab8-a397-5ae4d180585a" width="100px;"/><br /><sub><b>Ana Vitoria Maciel</b></sub></a><br />
+    </tr>
+  </tbody>
+</table>
+
+
+
+
