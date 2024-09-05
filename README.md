@@ -10,3 +10,8 @@ Este repositório contém um simples Gerenciador de Tarefas desenvolvido em Java
 # 📲 Exemplo de execução
 ![execução](https://github.com/user-attachments/assets/78f7d8e3-b8bb-4620-a78b-1d95329d562e)
 
+# Como usar o codigo
+```bash
+# Clone esse repositório:
+$ git clone https://github.com/anavitoriamaciel/ListaDeTarefas.git
+```
